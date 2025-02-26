@@ -13,6 +13,4 @@ This Jupyter Notebook demonstrates fine-tuning a vision-language model. It provi
 
 - The model used to fine-tune is SmolVLM (MODELID:"HuggingFaceTB/SmolVLM-Instruct")
 - Fine-tuned on the HuggingFaceM4/ChartQA dataset
-- Quantized using the LoRA technique for efficient parameter usage
-- Trained on 1% of the available data due to GPU constraints
 - Designed for visual question-answering. 
